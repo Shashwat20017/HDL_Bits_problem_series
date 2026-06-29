@@ -11,4 +11,4 @@ module top_module (
             q<=q+1;
     end
     
-endmodule
+endmodule.
